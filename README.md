@@ -1,4 +1,3 @@
 # hello-world
-getting started with GitHub! 
+Alex & Danny Game Project #1
 
-hello there, I'm Alex.
